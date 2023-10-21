@@ -27,6 +27,7 @@ public class Ex11  {
   }
 	public static void main(String[] args) {
 			Racine();
+			System.out.print("entrer un entier entre 0 et 4:");
 	}
 
 }
